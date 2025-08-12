@@ -1,0 +1,7 @@
+D:\Saad\Saad Codes\Azure Code\bin\Publish\AzureDevOps.exe
+D:\Saad\Saad Codes\Azure Code\bin\Publish\appsettings.Development.json
+D:\Saad\Saad Codes\Azure Code\bin\Publish\appsettings.json
+D:\Saad\Saad Codes\Azure Code\bin\Publish\AzureDevOps.dll
+D:\Saad\Saad Codes\Azure Code\bin\Publish\AzureDevOps.deps.json
+D:\Saad\Saad Codes\Azure Code\bin\Publish\AzureDevOps.runtimeconfig.json
+D:\Saad\Saad Codes\Azure Code\bin\Publish\AzureDevOps.pdb
